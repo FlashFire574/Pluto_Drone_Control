@@ -9,3 +9,5 @@ The keyboard commands for the same are as follows- w- Pitch a- Counter Roll s- C
 Task 2 requires three files, Aruco, Hover, and Rectangle. 
  
 The first is for pose estimation of the drone with the help of a "RealSense" camera installed on the ceiling, while "Hover" uses a PID control algorithm for hovering the drone at a particular height (1 meter). You may change this value by changing the "height_set" variable. "Rectangle.py," similar to "Hover," uses PID control to move the drone rectangularly.
+
+ Python Wrapper for operating PlutoX by Drona Aviation from local machine (macos/Linux/Windows)
