@@ -1,4 +1,4 @@
-# Inter-IIT
+# Inter-IIT 11.0
 
 - The following is our solution to the Drona Aviation PS as a part of Inter IIT Tech Meet 11.0-
 
